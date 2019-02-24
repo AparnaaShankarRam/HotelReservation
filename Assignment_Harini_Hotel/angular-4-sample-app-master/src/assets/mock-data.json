@@ -1,0 +1,32 @@
+[
+    {
+        "guestId": 1,
+        "guestName": "Leanne Graham",
+        "hotel": "Le Royal Meridian",
+        "reservationNumber": "456231"
+    },
+    {
+        "guestId": 2,
+        "guestName": "Ben",
+        "hotel": "Le Royal Meridian",
+        "reservationNumber": "456232"
+    },
+    {
+        "guestId": 3,
+        "guestName": "Dolly",
+        "hotel": "Le Royal Meridian",
+        "reservationNumber": "456233"
+    },
+    {
+        "guestId": 4,
+        "guestName": "Doug",
+        "hotel": "Le Royal Meridian",
+        "reservationNumber": "456234"
+    },
+    {
+        "guestId": 5,
+        "guestName": "Emma",
+        "hotel": "Le Royal Meridian",
+        "reservationNumber": "456235"
+    }
+]
